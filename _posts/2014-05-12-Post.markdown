@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Initial Post"
+date:   2014-05-12
+categories: post
+---
+
+Post from the future. 
